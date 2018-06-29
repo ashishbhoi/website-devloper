@@ -1,2 +1,2 @@
-# website-devloper #
-Website For a website devloper
+# website-developer #
+Website For a website developer
